@@ -1,0 +1,6 @@
+id,type,name,status,description,epic,startTime,duration
+1, TASK, Task name, Task description, NEW, 2022-08-16T15:00, 30
+2, EPIC, Epic name, Epic description, NEW, 2022-08-16T16:30, 30
+3, SUBTASK, Subtask name, Subtask description, NEW, 2022-08-16T16:30, 30, 2
+
+2,1
